@@ -1,8 +1,11 @@
-# GIT-and-commands
-devops git section
+# Git and commands
+DevOps Git Section
 
-# GIT
-~ Stages in GIT
-Working area/untracked area
-Staging area/tracked area
-Local repository
+# Git
+Stages in GIT.
+
+"Working area/untracked area"
+
+"Staging area/tracked area"
+
+"Local repository"
