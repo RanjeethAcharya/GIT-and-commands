@@ -9,3 +9,5 @@ Stages in GIT.
 "Staging area/tracked area"
 
 "Local repository"
+
+just check that it has separate doc or not 
