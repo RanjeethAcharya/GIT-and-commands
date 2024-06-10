@@ -46,7 +46,7 @@ Stages in GIT.
 
 "git checkout -b master" ----> -b creates and switches to a new branch named master.
 
-"git push --set-upstream origin master" ----> will add new branch in GitHub repository
+"git push --set-upstream origin master" or "git push -u origin master" ----> will add new branch in GitHub repository
 
 # Git Push and Pull
 
